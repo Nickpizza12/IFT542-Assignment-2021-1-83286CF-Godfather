@@ -1,4 +1,4 @@
-# IFT542 Practical Assignment -- Student Registration Web Application -- 2021/1/84174CF
+# IFT542 Practical Assignment -- Student Registration Web Application -- 2021/1/83286CF
 
 A PHP/MySQL student registration app built to demonstrate identifying,
 exploiting-in-principle, and remediating common web vulnerabilities
@@ -33,7 +33,7 @@ docs/
   incident_response_runbook.md
   sample_logs/            Redacted fictitious log sample
 SECURITY_NOTES.md        Before/after code excerpts, one per finding
-IFT542_TECHNICAL_REPORT 2021-1-84174CF.docx  TECHNICAL REPORT ON ASSIGNEMENT
+IFT542_TECHNICAL_REPORT 2021-1-83286CF.docx  TECHNICAL REPORT ON ASSIGNEMENT
 ```
 
 ## Local setup (XAMPP/MAMP/native PHP + MySQL)
@@ -89,3 +89,4 @@ IFT542_TECHNICAL_REPORT 2021-1-84174CF.docx  TECHNICAL REPORT ON ASSIGNEMENT
   recommended future work in `docs/risk_register.md` rather than
   implemented, to keep the submission focused on the assignment's
   required control set.
+
